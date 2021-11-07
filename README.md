@@ -74,6 +74,7 @@ The plugins you will need
 |[Dark mode](https://github.com/coliff/dark-mode-switch)|1.0.0|
 |[Animate](https://animate.style/)|4.1.1|
 |[Swiper](https://swiperjs.com)|7.2.0|
+|[fontawesome](https://fontawesome.com/)|5|
 
 
 
